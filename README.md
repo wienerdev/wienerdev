@@ -1,7 +1,7 @@
 ### Olá, bem vindo(a) ao meu perfil! 👋
 
 - 👨‍💻 Estagiário de Tecnologia na GEAP Autogestão em Saúde.
-- 🌱 Cursando Análise em Desenvolvimento de Sistemas, atualmente no 4° semestre.
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas, atualmente no 4° semestre.
 - 🛠 Estudando HTML5, CSS3, Node.js e Java.
 
 <div>
