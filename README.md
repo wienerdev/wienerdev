@@ -2,7 +2,7 @@
 
 - 👨‍💻 Estagiário de Tecnologia na GEAP Autogestão em Saúde.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas, atualmente no 4° semestre.
-- 🛠 Estudando HTML5, CSS3, Node.js e Java.
+- 🛠 Estudando HTML5, CSS3, Angular e Java.
 
 <div>
   <a href="https://github.com/wienerdev">
