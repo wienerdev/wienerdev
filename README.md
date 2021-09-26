@@ -1,6 +1,6 @@
 ### Olá, bem vindo(a) ao meu perfil! 👋
 
-- 👨‍💻 Estagiário de Tecnologia na GEAP Autogestão em Saúde.
+- 👨‍💻 Junior Software Developer
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas, atualmente no 4° semestre.
 - 🛠 Estudando Angular, Java e C#.
 
