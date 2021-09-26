@@ -1,6 +1,6 @@
 ### Olá, bem vindo(a) ao meu perfil! 👋
 
-- 👨‍💻 Junior Software Developer
+- 👨‍💻 Junior Java Developer
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas, atualmente no 4° semestre.
 - 🛠 Estudando Angular, Java e C#.
 
