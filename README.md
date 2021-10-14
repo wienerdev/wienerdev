@@ -2,7 +2,7 @@
 
 - 👨‍💻 Junior Software Developer na Cast Group
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas, atualmente no 4° semestre
-- 🛠 Estudando Angular, Java e C#
+- 🛠 Estudando Java e Angular
 
 <div>
   <a href="https://github.com/wienerdev">
