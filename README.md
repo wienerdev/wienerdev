@@ -1,7 +1,7 @@
 ### Olá, bem vindo(a) ao meu perfil! 👋
 
 - 👨‍💻 Junior Software Developer na Cast Group
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas, atualmente no 4° semestre
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas, atualmente no 5° semestre
 - 🛠 Estudando Java e Angular
 
 <div>
