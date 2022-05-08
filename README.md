@@ -1,8 +1,8 @@
-### Olá, bem vindo(a) ao meu perfil! 👋
+### Hello, welcome to my profile! 👋
 
-- 👨‍💻 Junior Software Developer na Cast Group
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas, atualmente no 5° semestre
-- 🛠 Estudando Java, Angular e Kotlin
+- 👨‍💻 Java Full Stack Developer at Cast Group
+- 🌱 Graduated in Systems Analysis and Development
+- 🛠 Studying Java, Angular and Docker
 
 <div>
   <a href="https://github.com/wienerdev">
