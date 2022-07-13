@@ -1,6 +1,6 @@
 ### Hello, welcome to my profile! 👋
 
-- 👨‍💻 Java Full Stack Developer at Cast Group
+- 👨‍💻 Mid Full Stack Developer at ACT Digital
 - 🌱 Graduated in Systems Analysis and Development
 - 🛠 Studying Java, Angular and Docker
 
