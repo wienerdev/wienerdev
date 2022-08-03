@@ -2,7 +2,7 @@
 
 - 👨‍💻 Mid Full Stack Developer at ACT Digital
 - 🌱 Graduated in Systems Analysis and Development
-- 🛠 Studying Java, Angular and Docker
+- 🛠 Studying Java, Angular, Data Structure and Algorithms
 
 <div>
   <a href="https://github.com/wienerdev">
