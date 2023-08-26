@@ -1,7 +1,7 @@
 ### Hello, welcome to my profile! 👋
 
 - 👨‍💻 Senior Full Stack Developer
-- 🌱 Graduated in Systems Analysis and Development | Post-Graduated (on progress) in Software Architecture
+- 🌱 Graduated in Systems Analysis and Development | Post-Graduated (in progress) in Software Architecture
 - 🛠 Studying Flutter, Data Structure and Algorithms
 
 <div>
